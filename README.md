@@ -1,4 +1,4 @@
-# Cyber Song Bot
+# Hashan Song Bot
 ##  🎹 A telegram bot that can download songs 🎸
 ### Reach me on Telegram [🎹 Song Download Bot 🎸](http://t.me/Cyber_Song_Downloader_Bot)
 <p align="center">
@@ -30,5 +30,4 @@ The easiest way to deploy this Song Bot  <br><br>
 
 ### Developers:
 
-[@Cyber01_Warriors](https://t.me/Cyber01_Warriors)
-
+[@HashanDimuthu](https://t.me/HashanDimuthu)
