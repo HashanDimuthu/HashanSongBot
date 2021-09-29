@@ -1,8 +1,8 @@
-# UB Song Bot
+# Cyber Song Bot
 ##  🎹 A telegram bot that can download songs 🎸
-### Reach me on Telegram [🎹 Song Download Bot 🎸](http://t.me/UBSongBot)
+### Reach me on Telegram [🎹 Song Download Bot 🎸](http://t.me/Cyber_Song_Downloader_Bot)
 <p align="center">
-  <img src="https://telegra.ph/file/dcc1b80b52420cf624753.jpg">
+  <img src="https://telegra.ph/file/c087eff55fa8077950eea.jpg">
 </p>
 
 
@@ -30,4 +30,5 @@ The easiest way to deploy this Song Bot  <br><br>
 
 ### Developers:
 
-[@UvinduBro](https://t.me/Uvindu_Bro)
+[@Cyber01_Warriors](https://t.me/Cyber01_Warriors)
+
