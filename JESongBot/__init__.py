@@ -1,4 +1,4 @@
-#Uvindu Bro <https://t.me/UvinduBro>
+#Hashan Dimuthu <https://t.me/HashanDimuthu>
 
 import logging
 from pyrogram import Client
