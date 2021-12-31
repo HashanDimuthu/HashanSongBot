@@ -1,5 +1,5 @@
 # Plugin by @Mr_Dark_Prince
-#Uvindu Bro <https://t.me/UvinduBro>
+# Hashan Dimuthu <https://t.me/Hashan Dimuthu>
 
 import os
 import requests
